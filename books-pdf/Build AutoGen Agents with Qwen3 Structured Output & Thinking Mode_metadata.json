@@ -1,8 +1,14 @@
 {
-  "title": "Build AutoGen",
+  "title": "Build AutoGen Agents With Qwen3 Structured Output & Thinking Mode",
   "author": "Falah",
-  "description": "based on llm ",
-  "category": "General",
-  "tags": "python,code,agents,adk",
-  "uploadDate": "2025-05-31T13:25:08.885Z"
+  "description": "منصة أتمتة الذكاء الاصطناعي هي أداة مفتوحة المصدر تتيح بناء وإدارة تطبيقات وعملاء الذكاء الاصطناعي بسهولة. تدمج ثلاث تقنيات رئيسية: n8n لأتمتة سير العمل، Ollama لتشغيل نماذج اللغة الكبيرة محلياً، وQdrant كقاعدة بيانات متجهة للبحث الدلالي. تدعم المنصة إنشاء روبوتات محادثة بسيطة ووكلاء RAG معقدة يمكنها الوصول إلى قواعد المعرفة والاستدلال عليها. تعمل بتقنية Docker مما يسهل النشر، وتشمل أمثلة وتوثيقاً شاملاً لمساعدة المطورين في البدء السريع.\n\n",
+  "category": "AI",
+  "tags": "research, ai",
+  "uploadDate": "2025-05-31T13:47:32.912Z",
+  "isbn": "",
+  "publisher": "",
+  "publicationYear": "2025",
+  "genre": "",
+  "pages": "",
+  "language": "English"
 }
